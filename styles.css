@@ -1,33 +1,31 @@
-/*  your css code here. If applicable */
 body {
-    background-color: skyblue;
+  background-color: skyblue;
 }
 
 p:first-child {
-    background-color: black;
-
+  background-color: black;
 }
 
 p:last-child {
-    color: red;
+  color: red;
 }
 
 ul li:nth-child(1) {
-    background-color: white;
+  background-color: white;
 }
 
 ul li:nth-child(2) {
-    background-color: slategray;
+  background-color: slategray;
 }
 
 ul li:nth-child(3) {
-    background-color: pink;
+  background-color: pink;
 }
 
 ul li:nth-child(4) {
-    background-color: slategray;
+  background-color: slategray;
 }
 
 ul li:nth-child(5) {
-    background-color: white;
+  background-color: white;
 }
